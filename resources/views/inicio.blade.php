@@ -15,6 +15,7 @@
     <h5>refrivent</h5>
     <h1>refrivent</h1>
     <h2>refrivent</h2>
+    <h1>refri</h1>
     @yield('contenido')
 </body>
 </html>
